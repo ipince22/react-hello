@@ -11,8 +11,8 @@ export function Home() {
 			<p>
 				<img src={rigoImage} />
 			</p>
-			<a href="#" className="btn btn-success">
-				If you see this green button... bootstrap is working PEPE branch
+			<a href="#" className="btn btn-outline-primary">
+				bootstrap is working PEPE branch****************
 			</a>
 			<p>
 				Made by{" "}
